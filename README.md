@@ -88,12 +88,12 @@ where these variables represent confidence interval, confidence levels and Margi
 
 * **Question2**: What is the process for testing the sample size value?
 
-The process for testing the Sample Size value 
-
+The process for testing the Sample Size value is the Unsupervised Learning Approach using **k-means clustering** for the proper classification. 
+This verification will occur after the model is trained in the dataset and features provided by the **News Reporter**.
 
 * **Question3**: What will be the sample size based on given dataset details?
 
-The Sample Size which is required in the given dataset are
+To calculate the sample size we have to again apply statistcal formulas but they can optimised by the help of other **Machine Learning Algorithms**.
 
 
 
