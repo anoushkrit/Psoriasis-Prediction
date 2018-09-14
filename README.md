@@ -72,9 +72,10 @@ Then at this accuracy the News Reporter will be able to shortlist patients.
 
 ## Answers to the questions asked
 
-* Question1: What is the process to calculate the sample size.
-* Question2: What is the process for testing the sample size value.
-* Question3: What will be the sample size based on given dataset details.
+* **Question1**: What is the process to calculate the sample size.
+
+* **Question2**: What is the process for testing the sample size value.
+* **Question3**: What will be the sample size based on given dataset details.
 
 
 
