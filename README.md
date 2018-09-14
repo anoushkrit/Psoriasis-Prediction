@@ -83,7 +83,7 @@ Then at this accuracy the News Reporter will be able to shortlist patients.
 According to the formulas already provided by statistics we should apply **Cochran's Sample Size Formulas** which clearly states that 
 ![Cochran](http://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg)
 where these variables represent confidence interval, confidence levels and Margin Error to estimate the Sample Size required without even using the Standard Deviation of the dataset provided.
-![99% Conf)idence Interval](https://www.kean.edu/~fosborne/bstat/px/t-99-ci.gif)
+![99% Conf)idence Interval](http://www.statisticshowto.com/wp-content/uploads/2009/10/construct-a-confidence-interval.gif)
 
 
 * **Question2**: What is the process for testing the sample size value?
