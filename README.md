@@ -104,8 +104,11 @@ But according to the question it seems that the accuracy is the only concern as 
 * **Question3**: What will be the sample size based on given dataset details?
 
 To calculate the sample size we have to again apply statistcal formulas but they can optimised by the help of other **Machine Learning Algorithms**.
+![Sample Size](https://github.com/anoushkrit/Psoriasis-Prediction/blob/master/Samplesize.jpeg?raw=true)
 
 
+
+Sample Size becomes **14267**.
 
 
 
