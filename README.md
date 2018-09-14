@@ -35,7 +35,7 @@ But selecting each individual one by one accounts to 10^(-11) of people having P
 
 ## The demarcated scaly and erythematous plaque
 
-[Typical Psoriasis](https://images.medicinenet.com/images/psoriasis-neck.jpg)
+![Typical Psoriasis](https://images.medicinenet.com/images/psoriasis-neck.jpg)
 
 ## 10 Questions that I will ask.
 * Tell me for how long how you have been facing these problems ? Does it(Skin disease) runs in the family?
