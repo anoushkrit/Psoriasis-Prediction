@@ -9,7 +9,7 @@ From here only we can understand a lot in terms of images of the patients or jus
 _**For the answers to the 3 questions go to the end**_
 
 ## Domain Knowledge
-> The differential diagnosis of erythemato-squamous diseases is a real problem in dermatology. They all share the clinical features of erythema and scaling, with very little differences. The diseases in this group are psoriasis, seboreic dermatitis, lichen planus, pityriasis rosea, cronic dermatitis, and pityriasis rubra pilaris.
+> The differential diagnosis of erythemato-squamous diseases is a real problem in dermatology. They all share the clinical features of erythema and scaling, with very little differences. The diseases in this group are psoriasis, seboreic dermatitis, lichen planus, pityriasis rosea, chronic dermatitis, and pityriasis rubra pilaris.
 > Usually a biopsy is necessary for the diagnosis but unfortunately these diseases share many histopathological features as well. Another difficulty for the differential diagnosis is that a disease may show the features of another disease at the beginning stage and may have the characteristic features at the following stages. 
  
 > Patients were first evaluated clinically with 12 features. Afterwards, skin samples were taken for the evaluation of 22 histopathological features. The values of the histopathological features are determined by an analysis of the samples under a microscope. 
@@ -17,7 +17,7 @@ _**For the answers to the 3 questions go to the end**_
 ## Believing as a News Reader
 #### What will I see as soon as the patient enters.
 
-Its APPEARANCE!!
+Its APPEARANCE!!
 But all the patients that I am going to interview are the people suffering from diseases relating to Dermatology.
 Every Person may look the same in terms of patchy skin and I don’t even know what sort of a patchy skin does a patient having Psoriasis has.
 
@@ -90,6 +90,8 @@ where these variables represent confidence interval, confidence levels and Margi
 
 The process for testing the Sample Size value is the Unsupervised Learning Approach using **k-means clustering** for the proper classification. 
 This verification will occur after the model is trained in the dataset and features provided by the **News Reporter**.
+
+![GIF for k-means clustering](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
 
 * **Question3**: What will be the sample size based on given dataset details?
 
