@@ -6,7 +6,7 @@ Psoriasis is a long-lasting auto-immune disease with abnormal patchy skin which 
 ### Wait here only!!!!!
 From here only we can understand a lot in terms of images of the patients or just by seeing them in person while performing the interview.
 
-__** For the answers to the 3 questions go to the end **__
+_**For the answers to the 3 questions go to the end**_
 
 ## Domain Knowledge
 > The differential diagnosis of erythemato-squamous diseases is a real problem in dermatology. They all share the clinical features of erythema and scaling, with very little differences. The diseases in this group are psoriasis, seboreic dermatitis, lichen planus, pityriasis rosea, cronic dermatitis, and pityriasis rubra pilaris.
@@ -52,6 +52,8 @@ But selecting each individual one by one accounts to 10^(-11) of people having P
 * Are your joints swelled up?
 * What according is the disease you are having? Does that disease disturb you?
 
+_The questions are asked to create a basic understanding of features that have to be taken into consideration by the NewsReporter's Brains's Machine Learning Models_
+
 ## An Unsupervised Learning Approach
 
 Indeed an interesting problem because this could have been a plane and simple Supervised Learning Approach.
@@ -60,6 +62,11 @@ This problem statement is a k-means clustering problem.
 But this approach can not be taken by the News Reporter because he/she is not aware about Machine Learning Algorithms (assumption).
 
 Explanation of which has been described in the word file and also on Wikipedia..
+### For Machine Learning Engineers
+
+[UCI Dermatology Dataset](https://archive.ics.uci.edu/ml/datasets/dermatology)
+
+Fetch the data and read everything which
 
 ## Other than questions
 * Clicking images of diseased part of the body. (Very Crucial) because human memory is very fragile and can be tampered with very easily.
@@ -72,10 +79,14 @@ Then at this accuracy the News Reporter will be able to shortlist patients.
 
 ## Answers to the questions asked
 
-* **Question1**: What is the process to calculate the sample size.
+* **Question1**: What is the process to calculate the sample size?
 
-* **Question2**: What is the process for testing the sample size value.
-* **Question3**: What will be the sample size based on given dataset details.
+
+
+* **Question2**: What is the process for testing the sample size value?
+
+
+* **Question3**: What will be the sample size based on given dataset details?
 
 
 
