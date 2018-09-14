@@ -6,6 +6,8 @@ Psoriasis is a long-lasting auto-immune disease with abnormal patchy skin which 
 ### Wait here only!!!!!
 From here only we can understand a lot in terms of images of the patients or just by seeing them in person while performing the interview.
 
+__** For the answers to the 3 questions go to the end **__
+
 ## Domain Knowledge
 > The differential diagnosis of erythemato-squamous diseases is a real problem in dermatology. They all share the clinical features of erythema and scaling, with very little differences. The diseases in this group are psoriasis, seboreic dermatitis, lichen planus, pityriasis rosea, cronic dermatitis, and pityriasis rubra pilaris.
 > Usually a biopsy is necessary for the diagnosis but unfortunately these diseases share many histopathological features as well. Another difficulty for the differential diagnosis is that a disease may show the features of another disease at the beginning stage and may have the characteristic features at the following stages. 
