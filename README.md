@@ -30,8 +30,8 @@ Probability of Combinations possible for selecting 10 suffering from Psoriasis a
 13 in 1000 combinations would be right.
 
 ## Probability
-Probability of a group - 0.013 (13 in 1000)
-Probability of a person – 0.10 ( 1 in 10)
+* Probability of a group - 0.013 (13 in 1000) having Psoriasis
+* Probability of a person – 0.10 ( 1 in 10) having Psoriasis
 
 But selecting each individual one by one accounts to 10^(-11) of people having Psoriasis
 
@@ -80,13 +80,20 @@ Then at this accuracy the News Reporter will be able to shortlist patients.
 ## Answers to the questions asked
 
 * **Question1**: What is the process to calculate the sample size?
+According to the formulas already provided by statistics we should apply **Cochran's Sample Size Formulas** which clearly states that 
+![Cochran](http://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg)
+where these variables represent confidence interval, confidence levels and Margin Error to estimate the Sample Size required without even using the Standard Deviation of the dataset provided.
 
 
 
 * **Question2**: What is the process for testing the sample size value?
 
+The process for testing the Sample Size value 
+
 
 * **Question3**: What will be the sample size based on given dataset details?
+
+The Sample Size which is required in the given dataset are
 
 
 
