@@ -97,6 +97,8 @@ This verification will occur after the model is trained in the dataset and featu
 If the accuracy of the **k-means clustering** is lesser than the previous 100000 and 10250 dataset then the sample size decided is worthless if "accuracy" is the measure in consideration.
 But according to the question it seems that the accuracy is the only concern as the _Confidence Interval_ needs to be **99%** and the _Margin of Error_ is only **1%**.
 
+> This **k-means clustering** model simulation is visualised accross the normalised data which is across _x-axis_ and _y-axis_.
+
 ![GIF for k-means clustering](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
 
 * **Question3**: What will be the sample size based on given dataset details?
