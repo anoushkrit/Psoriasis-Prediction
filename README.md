@@ -83,6 +83,8 @@ Then at this accuracy the News Reporter will be able to shortlist patients.
 According to the formulas already provided by statistics we should apply **Cochran's Sample Size Formulas** which clearly states that 
 ![Cochran](http://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg)
 where these variables represent confidence interval, confidence levels and Margin Error to estimate the Sample Size required without even using the Standard Deviation of the dataset provided.
+
+
 ![99% Conf)idence Interval](http://www.statisticshowto.com/wp-content/uploads/2009/10/construct-a-confidence-interval.gif)
 
 
@@ -90,6 +92,10 @@ where these variables represent confidence interval, confidence levels and Margi
 
 The process for testing the Sample Size value is the Unsupervised Learning Approach using **k-means clustering** for the proper classification. 
 This verification will occur after the model is trained in the dataset and features provided by the **News Reporter**.
+> How will this process allow us the testing of the sample size value?
+
+If the accuracy of the **k-means clustering** is lesser than the previous 100000 and 10250 dataset then the sample size decided is worthless if "accuracy" is the measure in consideration.
+But according to the question it seems that the accuracy is the only concern as the _Confidence Interval_ needs to be **99%** and the _Margin of Error_ is only **1%**.
 
 ![GIF for k-means clustering](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
 
